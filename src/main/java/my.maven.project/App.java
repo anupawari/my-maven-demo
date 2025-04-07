@@ -1,4 +1,4 @@
-package my-maven-project;
+package my.maven.project;
 
 /**
  * Hello world!
